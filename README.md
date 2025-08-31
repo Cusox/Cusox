@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td valign="center" height="450px">
+    <td valign="center" height="500px">
       <h1 align="center">Hi, I'm <img src="https://glitch-art.vercel.app/api/simple?word=Cusox" alt="Cusox" /> 👋</h2>
       <br>
       <a href="https://blog.cusox.net" target="_blank">
@@ -16,8 +16,8 @@
         <li>🎮 A dedicated Pokémon player.</li>
       </ul>
     </td>
-    <td valign="center" width="450px">
-      <img src="https://github-readme-stats.vercel.app/api?username=Cusox&show_icons=true&count_private=true&card_width=400px" alt="Cusox's github stats" />
+    <td valign="center" width="400px">
+      <img src="https://github-readme-stats.vercel.app/api?username=Cusox&show_icons=true&count_private=true" alt="Cusox's github stats" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cusox&layout=compact&langs_count=8&card_width=400px" />
     </td>
   </tr>
