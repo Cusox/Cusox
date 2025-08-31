@@ -9,8 +9,8 @@
       <hr>
       <p>A graduate student with great enthusiasm for kernel development, modern coding, interesting technologies, and adventure games.</p>
       <ul>
-        <li>🔭 Curious about everything and passionate about exploring hardcore things</li>
-        <li>📫 Not the best at socializing, but with a sincere heart; living a semi-introverted lifestyle.</li>
+        <li>🔭 Curious about exploring hardcore things</li>
+        <li>📫 Not the best at socializing; living a semi-introverted lifestyle.</li>
         <li>🌱 Optimistic about life and full of hope for the future.</li>
         <li>⚡ Obsessed with anime; will love Chino Kafuu forever.</li>
         <li>🎮 A dedicated Pokémon player.</li>
