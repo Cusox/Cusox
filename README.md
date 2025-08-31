@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td valign="center" height="500px">
+    <td valign="center" height="480px">
       <h1 align="center">Hi, I'm <img src="https://glitch-art.vercel.app/api/simple?word=Cusox" alt="Cusox" /> 👋</h2>
       <br>
       <a href="https://blog.cusox.net" target="_blank">
