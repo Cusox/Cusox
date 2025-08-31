@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td valign="center" height="500px">
+    <td valign="center" height="450px">
       <h1 align="center">Hi, I'm <img src="https://glitch-art.vercel.app/api/simple?word=Cusox" alt="Cusox" /> 👋</h2>
       <br>
-      <a target="_blank href="https://blog.cusox.net">
+      <a href="https://blog.cusox.net" target="_blank">
         <img src="https://img.shields.io/badge/博客-Blog-orange?&style=flat-square" alt="Blog Badge"/>
       </a>
       <hr>
@@ -16,7 +16,7 @@
         <li>🎮 A dedicated Pokémon player.</li>
       </ul>
     </td>
-    <td valign="center" width="400px">
+    <td valign="center" width="450px">
       <img src="https://github-readme-stats.vercel.app/api?username=Cusox&show_icons=true&count_private=true&card_width=400px" alt="Cusox's github stats" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cusox&layout=compact&langs_count=8&card_width=400px" />
     </td>
