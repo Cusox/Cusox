@@ -16,9 +16,9 @@
         <li>🎮 A dedicated Pokémon player.</li>
       </ul>
     </td>
-    <td valign="center" width="450px">
-      <img src="https://github-readme-stats.vercel.app/api?username=Cusox&show_icons=true&count_private=true&card_width=450px" alt="Cusox's github stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cusox&layout=compact&langs_count=8&card_width=450px" />
+    <td valign="center" width="400px">
+      <img src="https://github-readme-stats.vercel.app/api?username=Cusox&show_icons=true&count_private=true&card_width=400px" alt="Cusox's github stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cusox&layout=compact&langs_count=8&card_width=400px" />
     </td>
   </tr>
 </table>
